@@ -7,17 +7,9 @@ Welcome to BrowserStack WebdriverIO Cucumber Examples, a sample UI testing frame
 This repository includes a sample configuration file to run these on tests on BrowserStack platforms including **browsers running on a remote selenium grid such as BrowserStack AppAutomate
 
 # Setup
+ - Upload the application files in the apps directory and get the hash ID
+ - Update config/wdio.config.js file with the app hash ID's
+ - run `npm install`
 
-```
-
-npm install
-
-```
-
-# Run
-
-```
-
-npm run wdio
-
-```
+# Run Tests
+- run `npm run wdio`
