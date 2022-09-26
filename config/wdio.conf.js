@@ -14,7 +14,7 @@ exports.config = {
         platformName:'android',
         "appium:deviceName":'Google Pixel 6',
         "appium:platformVersion":"12.0",
-        "appium:app": 'bs://80f493246561e4f37463e632266485ba7ca7de0b',
+        "appium:app": 'bs://<android-app>',
         'bstack:options' : {
             "appiumVersion" : "2.0.0",  
         },
@@ -22,7 +22,7 @@ exports.config = {
         platformName: 'iOS',
         "appium:deviceName": 'iPhone 13',
         "appium:platformVersion":"15.0",
-        "appium:app": 'bs://4ed100cebdbb37ae1f688235060000a5ea58db27',
+        "appium:app": 'bs://<ios-app>',
         'bstack:options' : {
             "appiumVersion" : "2.0.0",  
         },
