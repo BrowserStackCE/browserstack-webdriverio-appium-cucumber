@@ -1,5 +1,5 @@
-<h1 align="center">   :zap: <img src="https://avatars.githubusercontent.com/u/1119453?s=200&v=4" width="60" height="60" > <a href="https://github.com/BrowserStackCE/browserstack-webdriverio-appium-cucumber">BrowserStack Examples Appium WebdriverIO</a>  <img src="http://v4.webdriver.io/images/webdriverio.png" width="60" height="60" >
- Cucumber <img src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" width="60" height="60" > :zap:</h1>
+<h1 align="center">   :zap: <img src="https://avatars.githubusercontent.com/u/1119453?s=200&v=4" width="60" height="60" > <a href="https://github.com/BrowserStackCE/browserstack-webdriverio-appium-cucumber">BrowserStack Examples Appium WebdriverIO Cucumber</a>  <img src="http://v4.webdriver.io/images/webdriverio.png" width="60" height="60" >
+ <img src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" width="60" height="60" > :zap:</h1>
 
 
 Welcome to BrowserStack WebdriverIO Cucumber Examples, a sample UI testing framework empowered with Appium, Webdriverio, Cucumber. Along with the framework the repository also contains test scripts written for BrowserStack Demo Application.
