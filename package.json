@@ -20,5 +20,9 @@
         "@wdio/spec-reporter": "^7.24.1",
         "appium": "^1.22.3",
         "wdio-wait-for": "^2.2.6"
+    },
+    "dependencies": {
+        "node-emoji": "^1.11.0",
+        "wdio-cucumber-parallel-execution": "^3.6.15"
     }
 }

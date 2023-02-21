@@ -1,9 +1,10 @@
 const {config} = require('./base.config')
+const splitFeatures = require('../split-features');
 config.cucumberOpts.tagExpression = "@Sample"
 exports.config = {
     ...config,
     specs: [
-        './tests/features/**/*.feature'
+        './tests/tmp/features/**/*.feature'
     ],
     exclude: [
        
@@ -31,3 +32,4 @@ exports.config = {
         },
     }]
 }
+splitFeatures(exports.config);
