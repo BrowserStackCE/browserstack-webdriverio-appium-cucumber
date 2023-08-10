@@ -11,8 +11,8 @@ exports.config = {
     services: [['browserstack', {
         testObservability: true,
         testObservabilityOptions: {
-            'projectName': "Browserstack Test",
-            'buildName': "Wdio Browserstack Cucumber",
+            'projectName': "browserstack-webdriverio-appium-cucumber",
+            'buildName': "browserstack-webdriverio-appium-cucumber-build",
             'buildTag': 'WDIO'
         },
     }]],
