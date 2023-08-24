@@ -8,7 +8,14 @@ exports.config = {
     waitforTimeout: 10000,
     connectionRetryTimeout: 120000,
     connectionRetryCount: 3,
-    services: ['browserstack'],
+    services: [['browserstack', {
+        testObservability: true,
+        testObservabilityOptions: {
+            'projectName': "browserstack-webdriverio-appium-cucumber",
+            'buildName': "browserstack-webdriverio-appium-cucumber-build",
+            'buildTag': 'WDIO'
+        },
+    }]],
     framework: 'cucumber',
     reporters: ['spec',['allure', {outputDir: 'allure-results'}]],
     cucumberOpts: {
