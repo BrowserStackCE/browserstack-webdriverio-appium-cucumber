@@ -1,2 +1,12 @@
 allure-results
 node_modules
+custom_wdio_E2E/ios/logs
+custom_wdio_E2E/ios/local.log
+custom_wdio_E2E/ios/node_modules
+custom_wdio_E2E/android/logs
+custom_wdio_E2E/android/local.log
+custom_wdio_E2E/android/node_modules
+custom_wdio_E2E/android/node_modules
+custom_wdio_E2E/ios/node_modules
+.gitignore
+local.log
