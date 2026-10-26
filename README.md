@@ -1,4 +1,4 @@
-<h1 align="center">   :zap: <img src="https://avatars.githubusercontent.com/u/1119453?s=200&v=4" width="60" height="60" > <a href="https://github.com/BrowserStackCE/browserstack-webdriverio-appium-cucumber">BrowserStack Examples Appium WebdriverIO Cucumber</a>  <img src="http://v4.webdriver.io/images/webdriverio.png" width="60" height="60" >
+<h1 align="center">   :zap: <img src="https://www.browserstack.com/images/static/header-logo.jpg" height="40" > <a href="https://github.com/BrowserStackCE/browserstack-webdriverio-appium-cucumber">BrowserStack Examples Appium WebdriverIO Cucumber</a>  <img src="http://v4.webdriver.io/images/webdriverio.png" width="60" height="60" >
  <img src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" width="60" height="60" > :zap:</h1>
 
 
